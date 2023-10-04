@@ -1,0 +1,73 @@
+[{
+    "title": "OXVA Network",
+    "links": [{
+            "text": "Home",
+            "url": "https://www.oxva.network/"
+        },
+        {
+            "text": "Documentation",
+            "url": "https://docs.oxva.network"
+        },
+        {
+            "text": "Bridge",
+            "url": "https://bridge.oxva.network"
+        },
+        {
+            "text": "Ecosystem",
+            "url": "https://www.optimism.io/apps/all"
+        },
+        {
+            "text": "Help center",
+            "url": "https://docs.oxva.network/help"
+        },
+        {
+            "text": "F.A.Q",
+            "url": "https://docs.oxva.network/faq"
+        }
+    ]
+},
+{
+    "title": "Developers",
+    "links": [{
+            "text": "Documentation",
+            "url": "https://docs.oxva.network/developer"
+        },
+        {
+            "text": "OXVA Status",
+            "url": "https://status.oxva.network/"
+        },
+        {
+            "text": "Faucet",
+            "url": "https://faucet.oxva.network"
+        },
+        {
+            "text": "Dev blog",
+            "url": "https://blog.oxva.network/"
+        },
+        {
+            "text": "Medium",
+            "url": "https://medium.com"
+        },
+        {
+            "text": "GitHub",
+            "url": "https://github.com/oxvanetwork"
+        }
+    ]
+},
+{
+    "title": "Community",
+    "links": [{
+            "text": "Discord",
+            "url": "https://discord.com/oxvanetwork"
+        },
+        {
+            "text": "Twitter",
+            "url": "https://twitter.com/oxvanetwork"
+        },
+        {
+            "text": "Blog",
+            "url": "https://blog.oxva.network/"
+        }
+    ]
+}
+]
